@@ -48,8 +48,7 @@ public class CalculatorTest {
 		int actual = cal.subtract(a, b);
 				
 		int expected = 5555;
-		assertEquals(expected,actual);
-				
+		assertEquals(expected,actual);		
 	}
 	
 	@Test
